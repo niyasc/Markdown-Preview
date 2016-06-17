@@ -1,13 +1,13 @@
 # MarkdownPreview
 
-Web based preview of markup text.
+Online preview of markdown text.
 
 ## TODO
 
 - [x] Setup angular and bootstrap libraries
 - [x] Handle head tags
-- [ ] Support strong emphasize \*\*text\*\* or \_\_text\_\_
-- [ ] Support emphasize \*text\* or \_text\_
+- [x] Support strong emphasize \*\*text\*\* or \_\_text\_\_
+- [x] Support emphasize \*text\* or \_text\_
 - [ ] Handle back ticks
 - [ ] Manage code snippet
 - [ ] Support ordered list
